@@ -1,0 +1,7 @@
+ridc:
+  client:
+    url: http://localhost:16300/urm/idcplg
+    http-library: apache4
+  context:
+    user: urmadmin
+    password: 
